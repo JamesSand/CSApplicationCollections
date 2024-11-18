@@ -15,5 +15,6 @@ Feel free to open an issue or a pull reqest if you have any questions or suggest
 
 
 ## Tools
+- [A github repo for everything you need for PhD Application (in Chinese)](https://github.com/zhanglj37/Tutorial-on-PhD-Application)
 - [Useful English Email Phrases](https://www.youtube.com/watch?v=c8yvN5oOKHY)
 
