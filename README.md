@@ -14,3 +14,6 @@ Feel free to open an issue or a pull reqest if you have any questions or suggest
 - [Sanjeev Arora: Off the Convex Path](https://www.offconvex.org/about/)
 
 
+## Tools
+- [Useful English Email Phrases](https://www.youtube.com/watch?v=c8yvN5oOKHY)
+
